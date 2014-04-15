@@ -11,4 +11,4 @@ The files and links are organized into git branches. They are:
 ##THANKS
 Thanks for coming! Hope you had/have a fantastic time :-)
 
-If you have questions [shoot me an email](mailto:daniel@designfrontier.net) or hit me on [twitter](http://twitter.com/daniel_sellers). I'll do my best to answer. You can also check [my website](http://designfrontier.net) for articles on web development... you know if you ever gt bored.
+If you have questions [shoot me an email](mailto:daniel@designfrontier.net) or hit me on [twitter](http://twitter.com/daniel_sellers). I'll do my best to answer. You can also check [my website](http://designfrontier.net) for articles on web development... you know if you ever get bored.
