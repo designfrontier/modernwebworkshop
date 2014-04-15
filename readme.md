@@ -1,5 +1,5 @@
-##MODERN WEB DEV WORKSHOP
-#SETUP LINKS
+#MODERN WEB DEV WORKSHOP
+##SETUP LINKS
 git:
 http://git-scm.com/downloads
 https://help.github.com/articles/set-up-git
@@ -19,7 +19,7 @@ http://www.sublimetext.com/
 Google Chrome:
 https://www.google.com/intl/en/chrome/browser/
 
-#SETUP COMMANDS
+##SETUP COMMANDS
 1. npm install -g express gulp supervisor
 2. brew update
 3. brew install mongodb
