@@ -20,6 +20,8 @@
 	* .DS_Store
 	* node_modules/
 	* build/
+10. `git add .`
+11. `git commit -m "your message here"`
 
 ##SETUP ROUND 2
 1. brew update
