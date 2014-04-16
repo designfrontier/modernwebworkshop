@@ -8,7 +8,7 @@
 * Google Chrome: https://www.google.com/intl/en/chrome/browser/
 
 ##SETUP ROUND 1
-1. `npm install -g express gulp supervisor`
+1. `npm install -g express-generator gulp supervisor`
 2. Create a directory for the project
 3. Open a command line and type `git init`
 4. `express -e .`
